@@ -1,0 +1,8 @@
+for_remote = true
+
+[[template]]
+name = 'rust-setup'
+git_provider = 'GitHub'
+user = 'dblanovschi'
+repo = 'rust-setup'
+git_ref = 'main'

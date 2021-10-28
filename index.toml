@@ -4,7 +4,7 @@ for_remote = true
 name = 'rust-setup'
 git_provider = 'GitHub'
 user = 'dblanovschi'
-repo = 'rust-setup'
-git_ref = 'main'
+repo = 'templates'
+git_ref = 'rust'
 setup = 'rust'
 

@@ -6,3 +6,5 @@ git_provider = 'GitHub'
 user = 'dblanovschi'
 repo = 'rust-setup'
 git_ref = 'main'
+setup = 'rust'
+
